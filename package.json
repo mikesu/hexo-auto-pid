@@ -1,0 +1,23 @@
+{
+  "name": "hexo-auto-pid",
+  "version": "1.0.0",
+  "description": "Create a new article and add a pid to  variable to args",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikesu/hexo-auto-pid.git"
+  },
+  "keywords": [
+    "hexo",
+    "pid"
+  ],
+  "author": "Mike SU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikesu/hexo-auto-pid/issues"
+  },
+  "homepage": "https://github.com/mikesu/hexo-auto-pid#readme"
+}
